@@ -1,0 +1,11 @@
+Date,Category,Type,Description,Amount
+2026-09-01,Salary,Income,Monthly Salary,150000
+2026-09-02,Food,Expense,Lunch,1200
+2026-09-03,Transport,Expense,Fuel,5000
+2026-09-05,Shopping,Expense,Clothes,8500
+2026-09-07,Bills,Expense,Electricity Bill,12000
+2026-09-10,Food,Expense,Groceries,6500
+2026-09-15,Freelance,Income,Website Project,35000
+2026-09-18,Entertainment,Expense,Movie,2500
+2026-09-20,Transport,Expense,Ride,1800
+2026-09-25,Food,Expense,Dinner,3000
