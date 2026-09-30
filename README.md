@@ -1,6 +1,6 @@
 # Personal Finance Analyzer
 
-A simple Python project that analyzes financial transactions
+A Python project that analyzes financial transactions
 from a CSV file.
 
 ## Features
